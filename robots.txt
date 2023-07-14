@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodbocwasuon.github.io/sitemap.xml
